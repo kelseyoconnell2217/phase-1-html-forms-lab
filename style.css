@@ -8,3 +8,12 @@ form * {
   display:inline;
 
 }
+/* input[type=checkbox] { 
+  vertical-align: middle; 
+  position: relative; 
+  bottom: 1px; 
+} 
+
+label { 
+  display: block; 
+}  */
